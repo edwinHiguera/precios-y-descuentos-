@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(compras.jpg);
+}
+
+
+header{
+    background-color: slateblue;
+    color: white;
+    padding: 0.1rem ;
+    font-size: 17px;
+    text-align: center;
+}   
+
+.cuadro1{
+    border-style: solid;
+    color: black;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 50px 200px;
+}
+
+.cuadro2{
+    border-style: solid;
+    color: black;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: -355px 750px;
+}
+p{
+    font-size: 20px;
+    background-color: tomato;
+    border-radius: 30rem;
+    margin: 15px 80px 0px 80px;
+    color: white;
+    
+}
+
+#resultadoPrecio{
+    background-color: red;
+    border-radius: 1rem;
+    margin: 15px 55px 0px 55px;
+}
+
+button:hover{
+    cursor: pointer;
+    text-shadow: 0 0px 9px black;
+}
